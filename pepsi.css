@@ -165,7 +165,7 @@ justify-content: center;
         padding: 30px;
     }
     .card:hover img {
-        top: 80%;
+        top: 84%;
         left: 50%;
         height: 320px;
     }
@@ -173,6 +173,6 @@ justify-content: center;
         text-align: center;
     }
     .card .content a {
-        margin-left: 127px;
+        margin: -10px 0 0 100px;
     }
 }
